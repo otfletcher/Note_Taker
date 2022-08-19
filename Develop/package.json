@@ -4,11 +4,24 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest",
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.18.1",
+    "jest": "^28.1.3",
+    "save-dev": "^0.0.1-security",
+    "uuid": "^8.3.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oliviatfletcher/Note_Taker.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/oliviatfletcher/Note_Taker/issues"
+  },
+  "homepage": "https://github.com/oliviatfletcher/Note_Taker#readme"
 }

@@ -1,6 +1,12 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "id": "d48691e8-122a-4498-bbba-31f703f3c9ae",
+      "title": "new",
+      "text": "adding new note"
+    },
+    {
+      "id": "34a31d94-c3b7-4cca-939a-4d61d5181594",
+      "title": "source",
+      "text": "adding from another source"
     }
-]
+  ]
